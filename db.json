@@ -1,0 +1,14 @@
+{
+    "usuarios":[
+        {
+            "Id": 1,
+            "Correo": "usuario@gmail.com",
+            "Contrasena": "123"
+        },
+        {
+            "Id": 1,
+            "Correo": "usuario2@gmail.com",
+            "Contrasena": "1234"
+        }
+    ]
+}
